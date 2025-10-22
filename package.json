@@ -1,0 +1,29 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "NODEJS기본",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/9and8-new/NODEJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/9and8-new/NODEJS/issues"
+  },
+  "homepage": "https://github.com/9and8-new/NODEJS#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "bundler": "^0.8.0",
+    "parcel": "^2.16.0",
+    "parcel-bundler": "^1.12.5"
+  }
+}
